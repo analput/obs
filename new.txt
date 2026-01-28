@@ -1,1 +1,3 @@
 https://github.com/WarmUpTill/SceneSwitcher/releases/download/1.32.6/advanced-scene-switcher-1.32.6-x86_64-linux-gnu.tar.xz
+https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.7.3.2/obs-multi-rtmp-0.7.3.0-x86_64-linux-gnu.deb
+https://github.com/sorayuki/obs-multi-rtmp/releases/download/0.7.3.2/obs-multi-rtmp-0.7.3.0-x86_64-linux-gnu-dbgsym.ddeb
